@@ -10,6 +10,7 @@ Sphere Map builder for Sphere Lit shaders inside Unity.
 
 ### TODO
 
+- Alpha channel manip.
 - Tutorial/explanation of project
 - Syntactic sugar, extensible brdf maybe?
 - Area Lights
