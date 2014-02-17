@@ -1,4 +1,4 @@
 spheremap
 =========
 
-Sphere Map builder Sphere lit shaders inside Unity.
+Sphere Map builder for Sphere Lit shaders inside Unity.
